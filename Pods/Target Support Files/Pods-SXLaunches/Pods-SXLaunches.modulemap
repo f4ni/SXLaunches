@@ -1,0 +1,6 @@
+framework module Pods_SXLaunches {
+  umbrella header "Pods-SXLaunches-umbrella.h"
+
+  export *
+  module * { export * }
+}
